@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Testimonial_Slider/static/css/main.9edcd1ac.css",
+    "main.js": "/github.io/Testimonial_Slider/static/js/main.4e0f86b1.js",
+    "index.html": "/github.io/Testimonial_Slider/index.html",
+    "main.9edcd1ac.css.map": "/github.io/Testimonial_Slider/static/css/main.9edcd1ac.css.map",
+    "main.4e0f86b1.js.map": "/github.io/Testimonial_Slider/static/js/main.4e0f86b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9edcd1ac.css",
+    "static/js/main.4e0f86b1.js"
+  ]
+}
